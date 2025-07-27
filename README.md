@@ -19,8 +19,10 @@ joblib : Saving/loading trained model
 
 # 🗂️ Dataset
 
-Source:
+Source:https://www.kaggle.com/c/dogs-vs-cats/data
+
 Structure: Images named like cat0.jpg, dog1.jpg, etc.
+
 All images are converted to grayscale and resized to 64×64 pixels.
 
 
