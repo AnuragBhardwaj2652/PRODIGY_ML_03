@@ -1,7 +1,7 @@
 # PRODIGY_ML_03
 Cats vs Dogs Classification using Support Vector Machine (SVM)
 
-# Welcome to Prodigy-ML-03, a project implemented in Visual Studio Code (VS Code) that classifies images of cats and dogs using Support Vector Machine (SVM). The model is trained on the popular Dogs vs Cats dataset from Kaggle, and uses OpenCV for image preprocessing and scikit-learn for model training and evaluation.
+Welcome to Prodigy-ML-03, a project implemented in Visual Studio Code (VS Code) that classifies images of cats and dogs using Support Vector Machine (SVM). The model is trained on the popular Dogs vs Cats dataset from Kaggle, and uses OpenCV for image preprocessing and scikit-learn for model training and evaluation.
 
 
 # 📌 Libraries used:
