@@ -41,22 +41,48 @@ Visualization of predictions
 # 🚀 Usage 
 
 1. Setup & Installation
-   
-   #Create virtual environment 
-   
+
+#Create virtual environment 
+
 python -m venv venv
-source venv/bin/activate   # Or .\\venv\\Scripts\\activate on Windows
+source venv/bin/activate 
 
 #Install dependencies
 pip install -r requirements.txt
 
+2. Run Scripts
+   
+To train model:
+ python train.py
 
-# Create virtual environment (recommended)
-python -m venv venv
-source venv/bin/activate   # Or .\\venv\\Scripts\\activate on Windows
+To make predictions:
+  python predict.py
 
-# Install dependencies
-pip install -r requirements.txt
+# 📈 Model Evaluation
+
+Accuracy Score
+
+Classification Report
+
+Visual Comparison of predicted vs actual labels (matplotlib)
+
+# 🔧 Future Enhancements
+
+Use MobileNetV2 for feature extraction
+
+Try non-linear kernels (RBF, poly) for better generalization
+
+Deploy as a web app using Flask/Streamlit
+
+# 🙏 Acknowledgments
+
+Kaggle community for the Dogs vs Cats dataset  
+
+Developers of scikit-learn, OpenCV, and matplotlib
+  
+
+
+
 
 
    
