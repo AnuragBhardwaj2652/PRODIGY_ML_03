@@ -37,3 +37,17 @@ Training an SVM classifier (with linear kernel)
 Evaluation using accuracy, precision, recall, and F1-score
 
 Visualization of predictions
+
+# 🚀 Usage 
+
+1. Setup & Installation
+   
+   #Create virtual environment 
+   
+python -m venv venv
+source venv/bin/activate   # Or .\\venv\\Scripts\\activate on Windows
+
+#Install dependencies
+pip install -r requirements.txt
+
+   
