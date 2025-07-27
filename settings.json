@@ -1,0 +1,7 @@
+{
+    "python.analysis.typeCheckingMode": "off",
+    "python.analysis.diagnosticMode": "openFilesOnly",
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.indexing": true,
+    "python.linting.pylintArgs": ["--disable=unused-import"]
+}
