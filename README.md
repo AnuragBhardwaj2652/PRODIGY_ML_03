@@ -50,4 +50,13 @@ source venv/bin/activate   # Or .\\venv\\Scripts\\activate on Windows
 #Install dependencies
 pip install -r requirements.txt
 
+
+# Create virtual environment (recommended)
+python -m venv venv
+source venv/bin/activate   # Or .\\venv\\Scripts\\activate on Windows
+
+# Install dependencies
+pip install -r requirements.txt
+
+
    
