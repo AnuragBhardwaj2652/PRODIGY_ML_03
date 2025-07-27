@@ -7,9 +7,13 @@ Welcome to Prodigy-ML-03, a project implemented in Visual Studio Code (VS Code) 
 # 📌 Libraries used:
 
 numpy : Numerical operations  
+
 opencv-python: Image reading and preprocessing  
+
 matplotlib.pyplot : Visualization of predictions  
+
 scikit-learn : Model training and evaluation  
+
 joblib : Saving/loading trained model  
 
 
